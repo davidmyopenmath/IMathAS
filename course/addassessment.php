@@ -2,6 +2,8 @@
 //IMathAS:  Add/modify blocks of items on course page
 //(c) 2006 David Lippman
 
+// test
+
 /*** master php includes *******/
 require("../init.php");
 require("../includes/htmlutil.php");
